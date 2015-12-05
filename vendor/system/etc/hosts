@@ -1,0 +1,14 @@
+127.0.0.1 localhost
+::1 localhost
+
+#fix google
+64.233.171.144 clients.l.google.com
+64.233.171.144 clients1.google.com
+64.233.171.144 clients2.google.com
+64.233.171.144 clients3.google.com
+64.233.171.144 clients4.google.com
+64.233.171.144 clients5.google.com
+64.233.171.144 clients6.google.com
+64.233.171.144 clients7.google.com
+64.233.171.144 code.google.com
+64.233.171.144 code.l.google.com
